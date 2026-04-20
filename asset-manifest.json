@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tracer-study/static/css/main.e6c13ad2.css",
+    "main.js": "/tracer-study/static/js/main.892f2319.js",
+    "static/js/453.32378720.chunk.js": "/tracer-study/static/js/453.32378720.chunk.js",
+    "index.html": "/tracer-study/index.html",
+    "main.e6c13ad2.css.map": "/tracer-study/static/css/main.e6c13ad2.css.map",
+    "main.892f2319.js.map": "/tracer-study/static/js/main.892f2319.js.map",
+    "453.32378720.chunk.js.map": "/tracer-study/static/js/453.32378720.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.892f2319.js"
+  ]
+}
